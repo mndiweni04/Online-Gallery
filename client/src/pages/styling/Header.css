@@ -1,0 +1,35 @@
+.header {
+    background-color: rgb(98, 204, 88);
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    opacity: 90%;
+    justify-content: center;
+}
+
+.logo-img {
+    border-radius: 50px;
+    height: 60px;
+    align-self: left;
+    margin: 0.7rem 0;
+}
+
+.nav-bar {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.nav-bar ul li {
+    transition: 0.3s;
+    cursor: pointer;
+    font-size: 1.4rem;
+    list-style: none;
+    padding: 0 2rem;
+    display: inline;
+}
+
+.nav-bar ul li:hover {
+    color: rgb(98, 204, 88);
+    background-color: white;
+    border-radius: 5px;
+}

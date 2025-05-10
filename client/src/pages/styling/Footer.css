@@ -1,0 +1,17 @@
+.my-footer {
+    background-color:  rgb(98, 204, 88);
+    opacity: 90%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+
+}
+
+.c-right {
+    font-size: 1.5rem;
+    color: whitesmoke;
+}
